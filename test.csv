@@ -1,2 +1,2 @@
 id,batch_id,name,app,test,workload,target,rate,impl,impl_ver,log_level,start_time,end_time
-20250218215519,default,20250218215519-rexley_kappa-web-baseline_app1-get100%-app1-1-spring-dev_std_4_std_std_-trace,web,baseline_app1,get100%,app1,1,spring,dev_std_4_std_std_,trace,2025-02-18T21:55:29.201+0000,2025-02-18T21:55:51.209+0000
+20250218215519,default,20250218215519-rexley_kappa-web-baseline_app1-get100%-app1-1-spring-dev_std_4_std_std_-trace,web,baseline_app1,get100%,app1,1,spring,dev_std_4_std_std_,trace
